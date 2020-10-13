@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/adi/.android/build-cache/5b9d93c0fa359e7b57f09f3b72b6ed1c1ebfaa63/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/anim/tooltip_exit.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/adi/.android/build-cache/5b9d93c0fa359e7b57f09f3b72b6ed1c1ebfaa63/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/anim/tooltip_enter.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/adi/.android/build-cache/5b9d93c0fa359e7b57f09f3b72b6ed1c1ebfaa63/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/adi/.android/build-cache/5b9d93c0fa359e7b57f09f3b72b6ed1c1ebfaa63/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/adi/.android/build-cache/5b9d93c0fa359e7b57f09f3b72b6ed1c1ebfaa63/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/adi/.android/build-cache/5b9d93c0fa359e7b57f09f3b72b6ed1c1ebfaa63/output/res/anim/catalyst_push_up_in.xml"
+    }
+]

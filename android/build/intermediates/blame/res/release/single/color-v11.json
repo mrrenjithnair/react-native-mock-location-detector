@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

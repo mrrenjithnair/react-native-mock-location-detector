@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/adi/.android/build-cache/95250250baeb8ced46709c70ff658495093345a7/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

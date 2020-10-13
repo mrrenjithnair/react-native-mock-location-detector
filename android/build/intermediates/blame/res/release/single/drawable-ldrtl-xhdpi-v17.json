@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    }
+]

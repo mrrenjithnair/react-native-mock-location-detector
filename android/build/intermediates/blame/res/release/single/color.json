@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/adi/.android/build-cache/abb786f4e0c1aabab2aede01d706686c329bf5c9/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/adi/.android/build-cache/abb786f4e0c1aabab2aede01d706686c329bf5c9/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/adi/.android/build-cache/abb786f4e0c1aabab2aede01d706686c329bf5c9/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/adi/CODE/RN/mockLocationExample/node_modules/react-native-mock-location-detector/android/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/adi/.android/build-cache/c90f6fa4c08c0d9912041af6090509108234e9d5/output/res/color/abc_btn_colored_text_material.xml"
+    }
+]

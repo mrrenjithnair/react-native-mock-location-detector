@@ -1,0 +1,41 @@
+
+buildscript {
+    repositories {
+        jcenter()
+        google()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.5.0'
+        classpath 'com.google.gms:google-services:3.2.1'
+    }
+}
+
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion "26.0.3"
+
+    defaultConfig {
+        minSdkVersion = 19
+        compileSdkVersion = 28
+        targetSdkVersion = 28
+        versionCode 1
+        versionName "1.0"
+    }
+    lintOptions {
+        abortOnError false
+    }
+}
+
+repositories {
+    mavenCentral()
+    google()
+}
+
+dependencies {
+    compile 'com.facebook.react:react-native:+'
+    compile 'com.google.android.gms:play-services-location:15.0.1'
+}
+  

@@ -1,0 +1,54 @@
+{
+  "_from": "react-native-mock-location-detector",
+  "_id": "react-native-mock-location-detector@1.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-/B8mrJlJA2yMMUjATxpDmanL75BVz2gZfUO+47o59gWkZUtwqtqN+fsWwQR21quZxiMrm2sZ7NHHd33s4hMo7Q==",
+  "_location": "/react-native-mock-location-detector",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-mock-location-detector",
+    "name": "react-native-mock-location-detector",
+    "escapedName": "react-native-mock-location-detector",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-mock-location-detector/-/react-native-mock-location-detector-1.0.5.tgz",
+  "_shasum": "90493708dbea88a95fad9bf794880c70b46b0a69",
+  "_spec": "react-native-mock-location-detector",
+  "_where": "/Users/renjithnair/Documents/Code/nwwapp",
+  "author": {
+    "name": "Aditya Kandari",
+    "email": "adkandari@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/adkandari/react-native-mock-location-detector/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Detects if the device is using mock location app to spoof it's real location. In that case user will be prompted to fix the mock location settings first before using the app.",
+  "homepage": "https://github.com/adkandari/react-native-mock-location-detector",
+  "keywords": [
+    "react native",
+    "location spoofing",
+    "mock location"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-mock-location-detector",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adkandari/react-native-mock-location-detector.git"
+  },
+  "scripts": {},
+  "version": "1.0.5"
+}
